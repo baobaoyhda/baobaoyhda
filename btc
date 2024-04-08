@@ -1,0 +1,1 @@
+bitcoin-cli sendtoaddress <address> <amount> [<comment>] [<comment-to>] [<subtractfeefromamount>] [<replaceable>] [<conf_target>] [<estimate_mode>]
